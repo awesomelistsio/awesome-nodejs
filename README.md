@@ -79,6 +79,7 @@
 - **[OAuth2orize](https://github.com/jaredhanson/oauth2orize)** - An OAuth2 server toolkit for Node.js.
 - **[Keycloak Node.js Adapter](https://www.keycloak.org/docs/latest/securing_apps/#nodejs-adapter)** - An adapter for integrating Keycloak into Node.js applications.
 - **[Auth0](https://auth0.com/docs/quickstart/backend/nodejs/01-authorization)** - A service for implementing authentication and authorization.
+- **[Scalekit](https://scalekit.com/)** - Enterprise identity for Node.js: SAML/OIDC SSO, SCIM, OAuth 2.1, MCP server authorization, and Agent Auth (delegated OAuth and token vault for AI agents calling third-party APIs).
 
 ## CLI Tools
 
